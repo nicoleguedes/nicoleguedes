@@ -1,4 +1,4 @@
-## Oi! eu sou Nicole Guedes, Técnica em Desenvolvimento de Sistemas e Desenvolvedora Front-End ☆
+## Oi! eu sou Nicole Guedes, Técnica em Desenvolvimento de Sistemas e Desenvolvedora Front-End 🎀
 
 - 📖 Estudando NodeJs
 - 📧 E-mail: nicoleguedes360@gmail.com
