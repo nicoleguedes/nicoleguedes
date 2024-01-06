@@ -1,7 +1,7 @@
 ## Oi! eu sou a Nicole Guedes, técnica em Desenvolvimento de Sistemas e desenvolvedora Front-End ☆
 
 - 📖 Estudando NodeJs
-- 📧 Email: nicoleguedes360@gmail.com
+- 📧 E-mail: nicoleguedes360@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoleguedes&show_icons=false&theme=synthwave)
 
