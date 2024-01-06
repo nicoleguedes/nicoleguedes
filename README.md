@@ -23,4 +23,3 @@
   
 </div>
 
-![Snake animation](https://github.com/nicoleguedes/nicoleguedes/blob/output/github-contribution-grid-snake.svg)
