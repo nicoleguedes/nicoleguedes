@@ -3,7 +3,13 @@
 - 📖 Estudando NodeJs
 - 📧 E-mail: nicoleguedes360@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoleguedes&show_icons=false&theme=synthwave)
+
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicoleguedes&bg_color=ffd6ec&color=9e4c98&line=000000&point=c61597&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoleguedes&show_icons=false&theme=synthwave)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -24,6 +30,7 @@
   
   <a href="https://instagram.com/whynicki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicole-guedesmaciel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:nicoleguedes360@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
 
